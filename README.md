@@ -16,3 +16,14 @@
 
  4. Based on these clues you will guess again until you break the code with a
     perfect match, the game will report "CODE CRACKED"!
+## Installation
+    1. fork and clone this repo.
+    2. In terminal cd `close-match-nope`.
+    3. run `python game_cli.py`
+
+## Contribution
+    You are more than welcome to contribute either with raising an issue
+    or via a pull request.
+
+## Lincense
+    under the MIT license. 
